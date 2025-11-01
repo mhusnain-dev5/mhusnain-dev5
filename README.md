@@ -6,8 +6,7 @@ Building modern, scalable, and user-friendly web applications.
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring **advanced MERN architecture** and **cloud deployment**  
-- 💼 Open for **freelance projects** on [Upwork](https://www.upwork.com/)  
+- 🌱 Currently exploring **advanced MEARN architecture** and **cloud deployment**  
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Angular**  
 - 📫 Reach me: [m.husnain.dev5@gmail.com] 
 - 🌍 Portfolio: [your-portfolio-link](#)
@@ -38,9 +37,8 @@ Building modern, scalable, and user-friendly web applications.
 ---
 
 ### 📫 Connect With Me
-- 💼 Upwork: [Your Upwork Profile](#)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
-- 🖥️ Portfolio: [Your Portfolio Link](#)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/muhammad-husnain-full-stack-engineer/]  
+- 🖥️ Portfolio: [Your Portfolio Link]  
 - ✉️ Email: [m.husnain.dev5@gmail.com]
 
 ---
