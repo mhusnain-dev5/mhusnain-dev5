@@ -1,46 +1,95 @@
-# 👋 Hi, I'm Muhammad Husnain
+# Muhammad Husnain
 
-** Full-Stack Software Engineer (MERN / MEAN) **  
-Building modern, scalable, and user-friendly web applications.
+## Senior Full Stack Software Engineer
 
----
+I build and ship full-stack web applications and SaaS products across React, Next.js, Angular, Node.js, TypeScript, PostgreSQL, MongoDB and Firebase.
 
-### 🚀 About Me
-- 🌱 Currently exploring **advanced MEARN architecture** and **cloud deployment**  
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Angular**  
-- 📫 Reach me: [m.husnain.dev5@gmail.com] 
-- 🌍 Portfolio: [your-portfolio-link](#)
+My work covers frontend and backend development, REST APIs, authentication and RBAC, payments, real-time features, cloud deployment, CI/CD, and AI integrations.
 
----
+## Core Engineering
 
-### 🛠️ Tech Stack
-**Frontend:** React, Next.js, Angular, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, Redux, Material-UI  
-**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, Firestore 
-**DevOps:** GitHub Actions, Docker, Vercel, AWS (basic)  
-**Tools:** VS Code, Postman, Git, Figma  
+- Frontend: React, Next.js, Angular,JavaScript,TypeScript
+- Backend: Node.js, Express.js, REST APIs, Firebase Cloud Functions
+- Data: PostgreSQL, MongoDB, Firestore, Firebase Realtime Database
+- Authentication: Firebase Auth, JWT, OAuth 2.0, OIDC, Keycloak, RBAC
+- Cloud / DevOps: GCP, Firebase, Docker, Kubernetes, GitHub Actions, Vercel
+- AI / Integrations: Gemini, Claude, Vertex AI, Python, embeddings, semantic search
+- Payments / Real-time: Stripe, WebSockets, Socket.io
+- Testing: Vitest
 
----
+## Selected Work
 
-### 🧩 Projects
-| Name | Description | Tech |
-|------|--------------|------|
-| [Task Manager App](#) | MERN app for managing daily tasks with JWT auth | React, Node, MongoDB |
-| [E-Commerce Angular](#) | Full-stack MEAN e-commerce demo | Angular, Node, Express |
-| [Portfolio Site](#) | Personal portfolio built with React | React, Tailwind |
+### GlobalInsight.ai
 
----
+AI market intelligence SaaS that collects signals from Reddit, YouTube and news, then processes and ranks customer pain points.
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mhusnain-dev5&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhusnain-dev5&layout=compact&theme=dark)
+Engineering areas:
+- Next.js and TypeScript frontend
+- Node.js and PostgreSQL backend
+- Python processing pipelines
+- Gemini and Claude analysis
+- Firebase authentication
+- Stripe credit-based billing
+- Background processing and real-time progress
 
----
+Repository: [ADD REPOSITORY LINK]
 
-### 📫 Connect With Me
-- 🔗 LinkedIn: [https://www.linkedin.com/in/muhammad-husnain-full-stack-engineer/]  
-- 🖥️ Portfolio: [Your Portfolio Link]  
-- ✉️ Email: [m.husnain.dev5@gmail.com]
+### FinJobsly
 
----
+AI-powered hiring platform with candidate, employer and admin workflows.
 
-⭐️ _Thanks for visiting my profile! Feel free to explore my repositories below._
+Engineering areas:
+- React and TypeScript
+- Node.js and Firebase
+- Firestore and Realtime Database
+- Role-based access control
+- Stripe subscriptions and credits
+- Vertex AI embeddings and semantic job matching
+
+Repository: [ADD REPOSITORY LINK]
+
+### QuickPantri
+
+Multi-vendor B2B/B2C commerce platform covering customer ordering, vendor workflows, administration, payments and delivery operations.
+
+Engineering areas:
+- Next.js, React and TypeScript
+- Firebase
+- Stripe
+- WebSockets
+- Google Maps API
+- Docker and GitHub Actions
+
+Repository: [ADD REPOSITORY LINK]
+
+### VeriBraid CSM
+
+Enterprise case management platform with Angular-based workflows and identity integration.
+
+Engineering areas:
+- Angular and TypeScript
+- RxJS
+- Keycloak
+- OAuth 2.0 / OIDC
+- Twilio MFA
+- PostgreSQL
+- Vitest
+- REST API integration
+
+Repository: [ADD REPOSITORY LINK]
+
+## What I Work On
+
+Full-stack application development  
+API and backend development  
+Authentication and authorization  
+SaaS workflows and billing  
+Real-time systems  
+Cloud deployment and CI/CD  
+AI and LLM integrations  
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/muhammad-husnain-full-stack-engineer
+- Email: m.husnain.dev5@gmail.com
+- Portfolio: [NEEDS MY INPUT]
