@@ -32,7 +32,6 @@ Engineering areas:
 - Stripe credit-based billing
 - Background processing and real-time progress
 
-Repository: [ADD REPOSITORY LINK]
 
 ### FinJobsly
 
@@ -46,7 +45,6 @@ Engineering areas:
 - Stripe subscriptions and credits
 - Vertex AI embeddings and semantic job matching
 
-Repository: [ADD REPOSITORY LINK]
 
 ### QuickPantri
 
@@ -60,7 +58,6 @@ Engineering areas:
 - Google Maps API
 - Docker and GitHub Actions
 
-Repository: [ADD REPOSITORY LINK]
 
 ### VeriBraid CSM
 
@@ -76,7 +73,6 @@ Engineering areas:
 - Vitest
 - REST API integration
 
-Repository: [ADD REPOSITORY LINK]
 
 ## What I Work On
 
